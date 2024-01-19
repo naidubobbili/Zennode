@@ -76,7 +76,7 @@ print('Shipping Fee : $',SF)
 
 #Gift Fee
 GF=QAF+QBF+QCF
-print('Gift Wrapper Feeb: $',GF)
+print('Gift Wrapper Fee: $',GF)
 
 #Total
 Total=Total-Ben+SF+GF
